@@ -1,0 +1,9 @@
+Codici da testare:
+012,0123,4,310,1024,2402,2401,4013  UD
+a,c,ad,abb,bad,deb,bbcde non UD
+abc,abcd,e,dba,bace,ceac,ceab,eabd UD
+010,0001,0110,1100,00011,00110,11110,101011 non UD
+00,01,10,11 UD
+0,10,110,1110 UD
+0,01,011,0111 UD
+0,01,10,1 non UD
